@@ -4,3 +4,4 @@ This repository investigates the iris dataset. This dataset contains information
 | Sepal-length | sepal-width | petal-length | petal-width | class |
 |---------------|---------------|--------------|--------------|-------|
 |  5.1 | 3.5 | 1.4 | 0.2 | iris-setosa |
+| 4.9  | 3.0 | 1.4 | 0.2 | Iris-setosa |
