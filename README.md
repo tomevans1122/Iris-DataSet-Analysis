@@ -23,5 +23,6 @@ The table shows the sepal dimensions are on average bigger than petal dimensions
 This figure comapres sepal widths and lengths across the three classes of iris species. The figure shows three things: 
 * this
 * and this
-ddd
+
+dcqedce
 
