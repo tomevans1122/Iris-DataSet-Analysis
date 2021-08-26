@@ -7,3 +7,5 @@ This repository investigates the iris dataset. This dataset contains information
 | 4.9  | 3.0 | 1.4 | 0.2 | Iris-setosa |
 
 There are 50 entries for each species, thus totalling 150 entries.
+
+## iris-investigation.py
