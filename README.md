@@ -29,5 +29,5 @@ This figure compares sepal widths and lengths across the three classes of iris c
 This figure is analagous to the figure described above, however this time regarding petal lengths and widths across the three classes. This figure shows a much clearer picture:
 * Iris-setosa have much smaller petal lengths and widths compared to the other species
 * The vast majority of Iris-verginica show superior petal lengths and widths to Iris-versicolor
-* There is less spread of the data for each class compared to the sepal figure
+* There is less spread of the data for each class compared to the previous sepal figure
 
