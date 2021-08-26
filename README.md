@@ -12,6 +12,7 @@ There are 50 entries for each species, thus totalling 150 entries.
 
 This script is a first look at the data. 
 sepal-length |  sepal-width  | petal-length | petal-width
+-------------|---------------|--------------|--------------
 count  |  150.000000  | 150.000000   | 150.000000 |  150.000000
 mean  |     5.843333  |   3.054000   |   3.758667  |   1.198667
 std    |    0.828066  |   0.433594    |  1.764420  |   0.763161
